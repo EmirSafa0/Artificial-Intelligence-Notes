@@ -2,11 +2,12 @@
 
 # 🚀 Artificial Intelligence Studies
 
-Merhaba! 👋
+Merhaba! 👋  
 
 Bu depo, Yapay Zeka ve Makine Öğrenmesi alanındaki öğrenim sürecim boyunca geliştirdiğim projeleri, ders notlarını ve uygulamalı çalışmalarımı içermektedir.
 
-Sıfırdan başlayarak veri analizi, modelleme ve optimizasyona kadar ilerlediğim bu süreçte teorik bilgileri pratik uygulamalarla pekiştirmeyi hedefledim. Tüm çalışmalar Jupyter Notebook (.ipynb) ortamında geliştirilmiş ve test edilmiştir.
+Sıfırdan başlayarak veri analizi, modelleme ve optimizasyona kadar ilerlediğim bu süreçte teorik bilgileri pratik uygulamalarla pekiştirmeyi hedefledim.  
+Tüm çalışmalar Jupyter Notebook (.ipynb) ortamında geliştirilmiş ve test edilmiştir.
 
 ---
 
@@ -15,12 +16,13 @@ Sıfırdan başlayarak veri analizi, modelleme ve optimizasyona kadar ilerlediğ
 - **Veri İşleme:** Pandas, NumPy  
 - **Görselleştirme:** Matplotlib, Seaborn  
 - **Makine Öğrenmesi:** Scikit-learn  
-- **İleri Teknikler:** Imbalanced-learn (SMOTE)
+- **İleri Teknikler:** Imbalanced-learn (SMOTE), GridSearchCV  
 
 ---
 
 ## 📁 Proje Yapısı
 
+```bash
 Artificial-Intelligence-Notes/
 │
 ├── data/
@@ -36,6 +38,7 @@ Artificial-Intelligence-Notes/
 │   ├── YapayZekaDers7.ipynb
 │   ├── YapayZekaDers8.ipynb
 │   └── YapayZekaDers9.ipynb
+```
 
 ---
 
@@ -54,17 +57,39 @@ Artificial-Intelligence-Notes/
 
 ---
 
+## 📈 Model Performansı (Örnek)
+
+Bazı projelerde elde edilen sonuçlar:
+
+- 🎯 **Random Forest Accuracy:** ~97%  
+- 📉 **Regression R² Score:** ~0.94  
+- 📊 **Düşük hata oranları (MAE, RMSE)**  
+
+---
+
+## 🖼️ Görseller
+
+> Aşağıya kendi grafiklerinin screenshot’unu eklersen burası aşırı güçlü olur
+
+![Örnek Grafik](https://via.placeholder.com/800x400.png?text=Model+Visualization)
+
+---
+
 ## 📌 Veri Setleri
 
+```
 data/raw/
+```
 
 ---
 
 ## ▶️ Nasıl Çalıştırılır?
 
-git clone https://github.com/EmirSafa0/Artificial-Intelligence-Notes.git  
-cd Artificial-Intelligence-Notes  
-jupyter notebook  
+```bash
+git clone https://github.com/EmirSafa0/Artificial-Intelligence-Notes.git
+cd Artificial-Intelligence-Notes
+jupyter notebook
+```
 
 ---
 
@@ -80,13 +105,8 @@ jupyter notebook
 
 ## ⚠️ Not
 
-Bazı notebook’larda bilinçli hatalı kullanım örnekleri bulunmaktadır. Doğru kullanımlar ayrıca gösterilmiştir.
-
----
-
-## 📄 Lisans
-
-MIT License
+Bazı notebook’larda bilinçli hatalı kullanım örnekleri bulunmaktadır.  
+Doğru kullanımlar ayrıca gösterilmiştir.
 
 ---
 
