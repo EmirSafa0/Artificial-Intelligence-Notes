@@ -67,14 +67,6 @@ Bazı projelerde elde edilen sonuçlar:
 
 ---
 
-## 🖼️ Görseller
-
-> Aşağıya kendi grafiklerinin screenshot’unu eklersen burası aşırı güçlü olur
-
-![Örnek Grafik](https://via.placeholder.com/800x400.png?text=Model+Visualization)
-
----
-
 ## 📌 Veri Setleri
 
 ```
